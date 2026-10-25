@@ -304,7 +304,7 @@ footer {
 <input type="checkbox" id="tema">
 
 <header id="inicio">
-    <h1>🇸🇾 Cultura Síria</h1>
+    <h1>Cultura Síria</h1>
     <p>História, tradições e sabores do Oriente Médio</p>
 </header>
 
@@ -418,7 +418,7 @@ footer {
 </section>
 
 <section class="sobre" id="bandeira">
-    <h2>🇸🇾 Bandeira da Síria</h2>
+    <h2> Bandeira da Síria</h2>
 
     <div class="bandeira" role="img" aria-label="Bandeira síria estilizada">
         <div class="faixa vermelho"></div>
